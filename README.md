@@ -1,3 +1,2 @@
-# glecaro.github.io
-Personal website
+## Personal website
 This is a dummy read me file.
