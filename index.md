@@ -1,4 +1,7 @@
-
+---
+layout: homepage
+title: "Gabriela Lecaro"
+---
 
 <section id="about">
 
