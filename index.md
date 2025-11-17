@@ -5,7 +5,7 @@ title: "Gabriela Lecaro Calle"
 
 ## About
 
-I am a PhD Candidate in Economics at the University of Michigan.  
+Welcome! I am a PhD Candidate in Economics at the University of Michigan.  
 My research interests lie at the intersection of labor, industrial organization, and development economics, with a focus on crime, entrepreneurship, and gender.
 
 Previously, I was a Research Fellow at the Center for International Development (CID) at the Harvard Kennedy School, and a Research Associate at Innovations for Poverty Action (IPA).
