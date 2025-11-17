@@ -1,1 +1,38 @@
-theme: jekyll-theme-minimal
+title: "Gabriela Lecaro"
+position: "PhD Candidate in Economics"
+affiliation: "University of Michigan"
+email: "glecaro@umich.edu"
+description: "Applied micro, labor, and development economics"
+
+# Social / links
+github_link: "https://github.com/glecaro"
+linkedin: ""          # add if you want
+twitter: ""           # add if you want
+google_scholar: ""    # add later when you have it
+orcid: ""
+
+# Site settings
+url: "https://glecaro.github.io"
+baseurl: ""           # important for a user site
+lang: "en"
+
+# Theme
+remote_theme: yaoyao-liu/minimal-light
+
+# Navigation (even for one-page, this makes nice anchors)
+nav:
+  - name: "About"
+    url: "#about"
+  - name: "Research"
+    url: "#research"
+  - name: "Teaching"
+    url: "#teaching"
+  - name: "CV"
+    url: "#cv"
+  - name: "Contact"
+    url: "#contact"
+
+# Markdown & plugins
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
